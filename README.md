@@ -27,3 +27,5 @@ The Narrator blacks out. When he returns to the house, he uncovers Tyler's plans
 
 With Tyler holding him at gunpoint on the top floor, the Narrator realizes that, as he and Tyler are the same person, the Narrator is holding the gun. He fires it into his own mouth, shooting through his cheek. Tyler dies, and the Narrator ceases mentally projecting him. Project Mayhem members bring a kidnapped Marla to the building. Holding hands, the Narrator and Marla watch as the explosives detonate, collapsing buildings around them.
 
+##Website Contents
+1. index.html
